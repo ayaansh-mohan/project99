@@ -1,0 +1,15 @@
+body{
+background :turquoise
+}
+h1{
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 100;
+}
+#myName{
+    font-size: 30px;
+    font-style: italic;
+}
+#take_my_selfie{
+    font-style: italic;
+}
